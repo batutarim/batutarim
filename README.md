@@ -1,4 +1,4 @@
-- 🎌 Tokyo, Japan 
+- 🧤 Hi! I'm @batutarim
 - ⌨️ Love Coding in JavaScript & Python
 <!---
 batutarim/batutarim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
